@@ -1,4 +1,4 @@
-## Log Analysis Script
+### Log Analysis Script
 # Overview
 This Python script processes log files to analyze and extract key cybersecurity insights. It is designed for efficient log parsing, data analysis, and output generation.
 
